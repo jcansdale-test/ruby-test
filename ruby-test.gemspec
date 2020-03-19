@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
     s.name        = 'ruby-test'
-    s.version     = '0.1.1'
+    s.version     = '0.1.2'
     s.licenses    = ['MIT']
     s.summary     = "This is an example!"
     s.description = "Much longer explanation of the example!"
