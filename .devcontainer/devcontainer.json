@@ -2,6 +2,11 @@
     // See https://docs.microsoft.com/en-us/visualstudio/online/reference/configuring
     //     https://code.visualstudio.com/docs/remote/containers
     
-      "dockerFile": "Dockerfile"
+	"dockerFile": "Dockerfile",
+	"postCreateCommand": "bundler install",
+	"extensions": [
+		"jamiecansdale.testdriven",
+		"rebornix.ruby"
+	]
     }
     
