@@ -8,5 +8,6 @@ Gem::Specification.new do |s|
     s.email       = 'rubycoder@example.com'
     s.files       = ["hello.rb"]
     s.homepage    = 'https://rubygems.org/gems/example'
-    end
+    s.metadata = { "github_repo" => "ssh://github.com/jcansdale-test/ruby-test" }
+end
   
