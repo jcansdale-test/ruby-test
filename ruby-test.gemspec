@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
     s.email       = 'rubycoder@example.com'
     s.files       = ["hello.rb"]
     s.homepage    = 'https://rubygems.org/gems/example'
-    s.metadata    = { "source_code_uri" => "https://github.com/example/example" }
+    s.metadata    = { "source_code_uri" => "https://github.com/jcansdale-test/ruby-test" }
     end
   
