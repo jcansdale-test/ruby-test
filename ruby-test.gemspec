@@ -9,7 +9,6 @@ Gem::Specification.new do |s|
     s.files       = ["hello.rb"]
     s.homepage    = 'https://rubygems.org/gems/example'
     s.metadata    = {
-        "source_code_uri" => "https://github.com/jcansdale-test/ruby-test",
-        "github_repo" => "https://github.com/jcansdale-test/ruby-test"
+        "source_code_uri" => "https://github.com/jcansdale-test/ruby-test"
     }
 end
