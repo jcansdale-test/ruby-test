@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
     s.name        = 'ruby-test'
-    s.version     = '0.1.7'
+    s.version     = '0.1.9'
     s.licenses    = ['MIT']
     s.summary     = "This is an example!"
     s.description = "Much longer explanation of the example!"
@@ -8,8 +8,4 @@ Gem::Specification.new do |s|
     s.email       = 'rubycoder@example.com'
     s.files       = ["hello.rb"]
     s.homepage    = 'https://rubygems.org/gems/example'
-    s.metadata    = {
-        "source_code_uri" => "https://github.com/jcansdale-test/ruby-test",
-        "github_repo" => "https://github.com/jcansdale-test/ruby-test"
-    }
 end
